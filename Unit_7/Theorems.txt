@@ -1,10 +1,15 @@
 Theorems we need to remember:
 
-1. Theorems - 
-        expanation
+1. Theorems - Pythagorus Theorem
+        expanation= in a right triangle a^2+b^2=c^2.( the twp legs squred will equal the hypotenuse squared)
 
-2. Theorems - 
-        expanation
+2. Theorems - Converse of Pythagorus Theorem
+        expanation= if the longest side of a trinagle squared is equal to the legs squred then the triangle is a right triangle
+        
+        DETERMINIGN WHETHER THE TRIANGLE IS RIGHT, ACUTE OR OBTUSE IF WE KNOW LEG/HYPOTENUSE LENGTHS
+                a^2+b^2>c^2 --> the triangle is acute
+                a^2+b^2=c^2 --> the triangle is right
+                a^2+b^2<c^2 --> the triangle is obtuse
 
 3. Theorems - 
         expanation
